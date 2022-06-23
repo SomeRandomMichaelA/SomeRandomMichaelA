@@ -1,0 +1,7 @@
+
+[general]
+	#Pick true to show a larger model in the wardrobe screen
+	bigger_model = true
+	#Pick true to have the player look at the mirror, false for looking at the player
+	face_mirror = true
+

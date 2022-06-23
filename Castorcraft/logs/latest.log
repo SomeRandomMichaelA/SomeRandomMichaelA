@@ -1,0 +1,178 @@
+[21:34:22] [main/INFO]: ModLauncher running: args [--username, Michael7714, --version, Test, --gameDir, C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test, --assetsDir, C:\Users\Mihail\AppData\Roaming\.minecraft\versions\assets, --assetIndex, 1.19, --uuid, 66011d5b-f9fb-11eb-9a3a-d45d64bce613, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 41.0.45, --fml.mcVersion, 1.19, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220607.102129, --fullscreen]
+[21:34:22] [main/INFO]: ModLauncher 10.0.1+10.0.1+main.e9521dc3 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[21:34:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Mihail/AppData/Roaming/.minecraft/versions/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2390!/ Service=ModLauncher Env=CLIENT
+[21:34:23] [main/INFO]: Found mod file backpacked-2.1.8-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file car-1.19-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file catalogue-1.6.1-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file cfm-7.0.0-pre31-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file cgm-1.2.7-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file configured-1.5.3-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file controllable-0.16.2-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file curios-forge-1.19-5.1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file fashion-1.19-5.0.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file framework-0.3.0-1.19.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file jei-1.19-forge-11.0.0.206.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file plane-1.19-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file theoneprobe-1.19-6.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file tl_skin_cape_forge_1.19-1.26.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/INFO]: Found mod file useful_backpacks-1.19-1.13.0.96.jar of type MOD with provider {mods folder locator at C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test\mods}
+[21:34:23] [main/WARN]: Mod file C:\Users\Mihail\AppData\Roaming\.minecraft\versions\libraries\net\minecraftforge\fmlcore\1.19-41.0.45\fmlcore-1.19-41.0.45.jar is missing mods.toml file
+[21:34:23] [main/WARN]: Mod file C:\Users\Mihail\AppData\Roaming\.minecraft\versions\libraries\net\minecraftforge\javafmllanguage\1.19-41.0.45\javafmllanguage-1.19-41.0.45.jar is missing mods.toml file
+[21:34:23] [main/WARN]: Mod file C:\Users\Mihail\AppData\Roaming\.minecraft\versions\libraries\net\minecraftforge\lowcodelanguage\1.19-41.0.45\lowcodelanguage-1.19-41.0.45.jar is missing mods.toml file
+[21:34:23] [main/WARN]: Mod file C:\Users\Mihail\AppData\Roaming\.minecraft\versions\libraries\net\minecraftforge\mclanguage\1.19-41.0.45\mclanguage-1.19-41.0.45.jar is missing mods.toml file
+[21:34:23] [main/INFO]: Found mod file fmlcore-1.19-41.0.45.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5300f14a
+[21:34:23] [main/INFO]: Found mod file javafmllanguage-1.19-41.0.45.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5300f14a
+[21:34:23] [main/INFO]: Found mod file lowcodelanguage-1.19-41.0.45.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5300f14a
+[21:34:23] [main/INFO]: Found mod file mclanguage-1.19-41.0.45.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5300f14a
+[21:34:23] [main/INFO]: Found mod file client-1.19-20220607.102129-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5300f14a
+[21:34:23] [main/INFO]: Found mod file forge-1.19-41.0.45-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5300f14a
+[21:34:23] [main/INFO]: No dependencies to load found. Skipping!
+[21:34:23] [main/ERROR]: Missing mandatory dependencies: uteamcore
+[21:34:25] [main/INFO]: Compatibility level set to JAVA_17
+[21:34:26] [main/INFO]: Successfully loaded Mixin Connector [de.maxhenkel.car.MixinConnector]
+[21:34:26] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[21:34:26] [main/INFO]: Launching target 'forgeclient' with arguments [--version, Test, --gameDir, C:\Users\Mihail\AppData\Roaming\.minecraft\versions\versions\Test, --assetsDir, C:\Users\Mihail\AppData\Roaming\.minecraft\versions\assets, --uuid, 66011d5b-f9fb-11eb-9a3a-d45d64bce613, --username, Michael7714, --assetIndex, 1.19, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530, --fullscreen]
+[21:34:31] [pool-3-thread-1/INFO]: Building optimized datafixer
+[21:34:37] [Render thread/WARN]: Assets URL 'union:/C:/Users/Mihail/AppData/Roaming/.minecraft/versions/libraries/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-srg.jar%23160!/assets/.mcassetsroot' uses unexpected schema
+[21:34:37] [Render thread/WARN]: Assets URL 'union:/C:/Users/Mihail/AppData/Roaming/.minecraft/versions/libraries/net/minecraft/client/1.19-20220607.102129/client-1.19-20220607.102129-srg.jar%23160!/data/.mcassetsroot' uses unexpected schema
+[21:34:37] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:34:38] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-3.5.41.jar%23120!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:140) ~[authlib-3.5.41.jar%23120!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:47) ~[authlib-3.5.41.jar%23120!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:158) ~[authlib-3.5.41.jar%23120!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:606) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:392) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19-41.0.45.jar%2393!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.1.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-3.5.41.jar%23120!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-3.5.41.jar%23120!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:121) ~[authlib-3.5.41.jar%23120!/:?]
+	... 18 more
+[21:34:38] [Render thread/INFO]: Setting user: Michael7714
+[21:34:38] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[21:34:42] [Render thread/FATAL]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §eusefulbackpacks§r requires §6uteamcore§r §o4.1.0.211 or above§r
+§7Currently, §6uteamcore§r§7 is §o§nnot installed
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.19-41.0.45.jar%23161!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:99) ~[fmlcore-1.19-41.0.45.jar%23161!/:?]
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:131) ~[fmlcore-1.19-41.0.45.jar%23161!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:92) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:112) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:92) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:454) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19-41.0.45.jar%2393!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.1.jar:?]
+[21:34:43] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundEngineLoadEvent to a broken mod state
+[21:34:43] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Block to a broken mod state
+[21:34:43] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Item to a broken mod state
+[21:34:44] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ParticleFactoryRegisterEvent to a broken mod state
+[21:34:45] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[21:34:45] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterClientReloadListenersEvent to a broken mod state
+[21:34:45] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterLayerDefinitions to a broken mod state
+[21:34:45] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterRenderers to a broken mod state
+[21:34:45] [Worker-Main-4/ERROR]: Failed to retrieve profile key pair
+java.io.IOException: Could not retrieve profile key pair
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233789_(ProfileKeyPairManager.java:137) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.multiplayer.ProfileKeyPairManager.m_233796_(ProfileKeyPairManager.java:63) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[21:34:45] [Render thread/INFO]: Reloading ResourceManager: Default
+[21:34:46] [Worker-Main-5/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelRegistryEvent to a broken mod state
+[21:34:47] [Worker-Main-4/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[21:34:50] [Worker-Main-7/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[21:34:57] [Worker-Main-5/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[21:34:59] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering overlay
+	at net.minecraft.client.renderer.GameRenderer.m_109093_(GameRenderer.java:892) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1070) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:660) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:205) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19-41.0.45.jar%2393!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.1.jar%2381!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.1.jar:?]
+Caused by: java.lang.NullPointerException: Registry Object not present: minecraft:empty
+	at java.util.Objects.requireNonNull(Objects.java:334) ~[?:?]
+	at net.minecraftforge.registries.RegistryObject.get(RegistryObject.java:204) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraftforge.common.ForgeHooks.getVanillaFluidType(ForgeHooks.java:816) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraft.world.level.material.Fluid.getFluidType(Fluid.java:108) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraftforge.client.RenderProperties.get(RenderProperties.java:57) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraftforge.client.ForgeHooksClient.getFluidMaterials(ForgeHooksClient.java:482) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:273) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraftforge.client.ForgeHooksClient.gatherFluidTextures(ForgeHooksClient.java:477) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraft.client.resources.model.ModelBakery.processLoading(ModelBakery.java:205) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraftforge.client.model.ForgeModelBakery.<init>(ForgeModelBakery.java:60) ~[forge-1.19-41.0.45-universal.jar%23165!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_5944_(ModelManager.java:57) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_5944_(ModelManager.java:20) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10786_(SimplePreparableReloadListener.java:11) ~[client-1.19-20220607.102129-srg.jar%23160!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
